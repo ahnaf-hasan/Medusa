@@ -2,6 +2,7 @@
 
 
 
+
 **AI-first security scanner with 9,600+ detection patterns for AI/ML, agents, and LLM applications.**
 **🤖 Works out of the box - no tool installation required.**
 **🚨 200 CVEs: Log4Shell, Spring4Shell, XZ Utils, LangChain RCE, MCP-Remote RCE, React2Shell**
@@ -10,6 +11,10 @@
 **✨ v2026.5.9: Agentic-commerce coverage — UCPScanner + AP2Scanner + 45 hand-tuned positive-pattern rules**
 
 ---
+About
+
+AI-first security scanner with 76 analyzers, 9,600+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers.
+
 
 ## 🎯 What is MEDUSA?
 
